@@ -1,0 +1,27 @@
+
+
+#nombre{
+    text-align: left;
+    padding: 20px;
+    margin-left: 5%;
+}
+.header{
+    font-size: x-large;
+    padding: 20px;
+    background-color: whitesmoke;
+} 
+
+body{
+    height: 100vh;
+    background-color: #8BC6EC;
+    background-image: linear-gradient(180deg, #8BC6EC 0%, #9599E2 100%);
+}
+ 
+.fondo{
+    height: 100vh;
+    background-color: #8BC6EC;
+    background-image: linear-gradient(180deg, #8BC6EC 0%, #9599E2 100%);
+}
+#image{
+    align-items: center;
+}
